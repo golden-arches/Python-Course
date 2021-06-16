@@ -1,0 +1,10 @@
+- Python was implemended firstly in 1989.
+- Python has a libary for almost everything.
+- To install a package in the terminal type "pip install {libary-name}"
+- python.org houses the documentation and downloads for python
+- A certain text editor does not have to be used, but Vim and Visual Studio Code
+are great examples
+- the "print()" function prints out string literials.
+- An example of the "print()" function is "print("Hello, World")
+- You can type "\n" string to make a new line where it is placed respectivly
+- 

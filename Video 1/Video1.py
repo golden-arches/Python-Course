@@ -1,0 +1,1 @@
+print("This\nwould\nbe\na\nnew\nfor\nevery\nword\n")

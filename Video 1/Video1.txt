@@ -1,0 +1,51 @@
+Hello, and welcome to the first video in this Python Course.
+Today we will download Python and an IDE.
+First some backstory on Python:
+Python was invented in the late 80's (true date is unknown)
+and was first implemented in 1989. This makes Python
+a farily new programing language. But that does not mean 
+that Python has modern features compared to languages such as C++
+or (just C++). It does not have namespaces, it does not have pointers
+or specific-type variables. But that doesn't take away from the useage
+of python. 
+
+Python as a libary for everything, with easy instlation. They have 
+a feature called "pip" that allows you to install packed by typing:
+"pip install {package-name}" and an example package name is "pygame"
+so you would type in a terminal: "pip install pygame". But first we 
+need to install python.
+
+ First you need to go to python.org. This is the website that houses the python 
+ documentation and downloads. The download we need is the most recent, which is 
+ 3.9.5 (it might change in a week lol). Run the python installer when it is downloaded
+ click "Add Python 3.9 to PATH", then click "Install Now", and then you may need
+ to restart your computer after downloading. 
+ 
+ Next we need an IDE or an IDLE. You could use the python IDLE, but that's not good for beginners.
+ I am going to be using vim. Vim is a very nice text editor, that you can run
+ right in your command prompt. You can download Vim from https://www.vim.org/download.php.
+ Vim is easy to install, you can just follow the install instructions. 
+ 
+ Now we can get into coding. First I will create a folder called "Python Coding"
+ and i will open it up in terminal. Click on the path to the folder, and 
+ type cmd. Then we can create a python file. To do this I will type
+ "echo main.py" Python files need to end with the .py extension. 
+
+Then we need to edit the file. We can type in the terminal "vim main.py". Then we 
+can start coding. Python's most basic function is "print()". With the "print()" function
+you can print string literials. So you can print things with the "print()" function.
+An example: "print("Hello, world!")". This will print Hello, World to the console. 
+You can put any words in the quotation marks. And you can put multiple line.
+If you put multiple print statements it print it on the next line.
+"print("Hello, ")
+print("World")"
+Even if you put the print statemenets on the same line.
+although the print automatical makes a new line at the end of the string
+you can manually do it by puting a "\n" character in your string.
+example:
+"print("This\nwould\nbe\na\nnew\nfor\nevery\n\word\n")"
+And that about wraps up this first tutorial video. Please leave sugestions in 
+the comments sections, if you feel the need to. Tutorial two will be out shortly.
+The transscript and notes to this video are in the decription, as well with 
+the scource code.
+{End Card}
